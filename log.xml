@@ -1,0 +1,439 @@
+<Events startTimestamp="1447245354293" logVersion="0.11.0.201504031625" osName="Mac OS X" osVersion="10.10.3" lineSeparator="\n" numMonitors="2" monitorBounds="[0, 0, 2560, 1440], [2560, 0, 1440, 900]">
+  <Command __id="0" _type="ShellBoundsCommand" bounds="[312, 23, 1679, 1336]" timestamp="12" />
+  <Command __id="1" _type="FileOpenCommand" docASTNodeCount="384" docActiveCodeLength="1786" docExpressionCount="254" docLength="2586" projectName="Assignment3" timestamp="31553">
+  </Command>
+  <Command __id="2" _type="MoveCaretCommand" caretOffset="225" docOffset="1379" timestamp="32023" />
+  <Command __id="3" _type="SelectTextCommand" caretOffset="79" docEnd="835" docOffset="810" docStart="810" end="104" start="79" timestamp="34809" />
+  <DocumentChange __id="4" _type="Replace" docASTNodeCount="378" docActiveCodeLength="1772" docExpressionCount="248" docLength="2572" endLine="17" insertionLength="11" int_docASTNodeCount="376" int_docActiveCodeLength="1761" int_docExpressionCount="247" int_docLength="2561" length="25" offset="810" repeat="11" startLine="17" timestamp="35619" timestamp2="36786">
+  </DocumentChange>
+  <Command __id="292" _type="InsertStringCommand" repeat="2" timestamp="1181342" timestamp2="1181459">
+  </Command>
+  <DocumentChange __id="308" _type="Delete" docASTNodeCount="357" docActiveCodeLength="1731" docExpressionCount="242" docLength="2971" endLine="62" length="1" offset="2438" startLine="62" timestamp="1185478">
+  </DocumentChange>
+  <Command __id="311" _type="InsertStringCommand" repeat="2" timestamp="1186109" timestamp2="1186542">
+  </Command>
+  <Command __id="323" _type="EclipseCommand" commandID="org.eclipse.ui.file.save" timestamp="1190830" />
+  <DocumentChange __id="324" _type="Insert" docASTNodeCount="357" docActiveCodeLength="1742" docExpressionCount="242" docLength="2982" length="9" offset="2442" timestamp="1191319">
+  </DocumentChange>
+  <Command __id="325" _type="InsertStringCommand" timestamp="1191328">
+  </Command>
+  <Command __id="326" _type="EclipseCommand" commandID="eventLogger.styledTextCommand.LINE_UP" timestamp="1191537" />
+  <DocumentChange __id="327" _type="Insert" docASTNodeCount="360" docActiveCodeLength="1754" docExpressionCount="243" docLength="2994" length="12" offset="2422" repeat="12" timestamp="1192146" timestamp2="1193655">
+  </DocumentChange>
+  <Command __id="354" _type="InsertStringCommand" repeat="10" timestamp="1195754" timestamp2="1197022">
+  </Command>
+  <Command __id="393" _type="AssistCommand" assist_type="CONTENT_ASSIST" auto_activated="false" start_end="END" timestamp="1220409" />
+  <Command __id="394" _type="EclipseCommand" commandID="org.eclipse.ui.file.save" timestamp="1220447" />
+  <Command __id="395" _type="MoveCaretCommand" caretOffset="1723" docOffset="2454" timestamp="1220842" />
+  <Command __id="396" _type="MoveCaretCommand" caretOffset="1762" docOffset="2493" timestamp="1222567" />
+  <Command __id="397" _type="SelectTextCommand" caretOffset="1766" docEnd="2497" docOffset="2497" docStart="2488" end="1766" start="1757" timestamp="1222727" />
+  <DocumentChange __id="398" _type="Replace" docASTNodeCount="198" docActiveCodeLength="1785" docExpressionCount="137" docLength="3025" endLine="63" insertionLength="5" int_docASTNodeCount="198" int_docActiveCodeLength="1780" int_docExpressionCount="137" int_docLength="3020" length="9" offset="2488" repeat="5" startLine="63" timestamp="1223685" timestamp2="1224097">
+  </DocumentChange>
+  <DocumentChange __id="646" _type="Replace" docASTNodeCount="373" docActiveCodeLength="1802" docExpressionCount="250" docLength="3042" endLine="77" insertionLength="4" int_docASTNodeCount="373" int_docActiveCodeLength="1798" int_docExpressionCount="250" int_docLength="3038" length="4" offset="2858" startLine="76" timestamp="1300646">
+  </DocumentChange>
+  <DocumentChange __id="650" _type="Replace" docASTNodeCount="373" docActiveCodeLength="1797" docExpressionCount="250" docLength="3037" endLine="73" insertionLength="5" int_docASTNodeCount="373" int_docActiveCodeLength="1792" int_docExpressionCount="250" int_docLength="3032" length="6" offset="2758" startLine="72" timestamp="1300652">
+  </DocumentChange>
+  <DocumentChange __id="657" _type="Insert" docASTNodeCount="373" docActiveCodeLength="1794" docExpressionCount="250" docLength="3034" length="1" offset="2605" timestamp="1300661">
+  </DocumentChange>
+  <DocumentChange __id="664" _type="Replace" docASTNodeCount="373" docActiveCodeLength="1789" docExpressionCount="250" docLength="3029" endLine="61" insertionLength="6" int_docASTNodeCount="373" int_docActiveCodeLength="1783" int_docExpressionCount="250" int_docLength="3023" length="7" offset="2382" startLine="60" timestamp="1300673">
+  </DocumentChange>
+  <DocumentChange __id="679" _type="Insert" docASTNodeCount="373" docActiveCodeLength="1803" docExpressionCount="250" docLength="3047" length="2" offset="2010" timestamp="1300691">
+  </DocumentChange>
+  <DocumentChange __id="682" _type="Replace" docASTNodeCount="373" docActiveCodeLength="1807" docExpressionCount="250" docLength="3039" endLine="52" insertionLength="0" int_docASTNodeCount="373" int_docActiveCodeLength="1807" int_docExpressionCount="250" int_docLength="3039" length="7" offset="1955" startLine="52" timestamp="1300696">
+  </DocumentChange>
+  <DocumentChange __id="702" _type="Replace" docASTNodeCount="373" docActiveCodeLength="1821" docExpressionCount="250" docLength="3021" endLine="40" insertionLength="2" int_docASTNodeCount="373" int_docActiveCodeLength="1819" int_docExpressionCount="250" int_docLength="3019" length="4" offset="1533" startLine="39" timestamp="1300723">
+  </DocumentChange>
+  <DocumentChange __id="706" _type="Replace" docASTNodeCount="373" docActiveCodeLength="1812" docExpressionCount="250" docLength="3012" endLine="35" insertionLength="1" int_docASTNodeCount="373" int_docActiveCodeLength="1811" int_docExpressionCount="250" int_docLength="3011" length="2" offset="1366" startLine="33" timestamp="1300730">
+  </DocumentChange>
+  <Command __id="1172" _type="InsertStringCommand" timestamp="1978051">
+  </Command>
+  <Command __id="1173" _type="InsertStringCommand" timestamp="1978051">
+  </Command>
+  <Command __id="1174" _type="EclipseCommand" commandID="org.eclipse.ui.file.save" timestamp="1978663" />
+  <Command __id="1175" _type="AssistCommand" assist_type="CONTENT_ASSIST" auto_activated="false" start_end="END" timestamp="1978854" />
+  <Command __id="1176" _type="SelectTextCommand" caretOffset="3180" docEnd="3180" docOffset="3180" docStart="2937" end="3180" start="2937" timestamp="1982340" />
+  <Command __id="1177" _type="CopyCommand" timestamp="1982691" />
+  <Command __id="1178" _type="SelectTextCommand" caretOffset="3270" docEnd="3270" docOffset="3270" docStart="3269" end="3270" start="3269" timestamp="1984006" />
+  <DocumentChange __id="1179" _type="Delete" docASTNodeCount="455" docActiveCodeLength="2253" docExpressionCount="294" docLength="3453" endLine="94" length="1" offset="3269" startLine="94" timestamp="1984144">
+  </DocumentChange>
+  <Command __id="1181" _type="PasteCommand" timestamp="1984153" />
+  <Command __id="1182" _type="MoveCaretCommand" caretOffset="3449" docOffset="3449" timestamp="1984676" />
+  <Command __id="1183" _type="EclipseCommand" commandID="org.eclipse.ui.file.save" timestamp="1984927" />
+  <Command __id="1184" _type="MoveCaretCommand" caretOffset="3500" docOffset="3500" timestamp="1985457" />
+  <Command __id="1185" _type="MoveCaretCommand" caretOffset="3501" docOffset="3501" timestamp="1986308" />
+  <DocumentChange __id="1186" _type="Delete" docASTNodeCount="498" docActiveCodeLength="2495" docExpressionCount="315" docLength="3695" endLine="99" length="1" offset="3500" startLine="98" timestamp="1987236">
+  </DocumentChange>
+  <Command __id="1187" _type="EclipseCommand" commandID="eventLogger.styledTextCommand.DELETE_PREVIOUS" repeat="2" timestamp="1987240" timestamp2="1987240" />
+  <Command __id="1189" _type="EclipseCommand" commandID="org.eclipse.ui.file.save" timestamp="1987510" />
+  <Command __id="1190" _type="MoveCaretCommand" caretOffset="3486" docOffset="3486" timestamp="1988177" />
+  <Command __id="1191" _type="MoveCaretCommand" caretOffset="3513" docOffset="3513" timestamp="1988489" />
+  <Command __id="1192" _type="MoveCaretCommand" caretOffset="3208" docOffset="3208" timestamp="1989364" />
+  <Command __id="1193" _type="SelectTextCommand" caretOffset="3212" docEnd="3212" docOffset="3212" docStart="3206" end="3212" start="3206" timestamp="1989508" />
+  <DocumentChange __id="1194" _type="Delete" docASTNodeCount="497" docActiveCodeLength="2489" docExpressionCount="314" docLength="3689" endLine="94" length="6" offset="3206" startLine="94" timestamp="1989776">
+  </DocumentChange>
+  <Command __id="1199" _type="PasteCommand" timestamp="1991128" />
+  <Command __id="1201" _type="InsertStringCommand" repeat="4" timestamp="1991907" timestamp2="1991990">
+  </Command>
+  <Command __id="1861" _type="InsertStringCommand" timestamp="2410434">
+  </Command>
+  <DocumentChange __id="1862" _type="Insert" docASTNodeCount="545" docActiveCodeLength="2796" docExpressionCount="348" docLength="3996" length="17" offset="2543" repeat="7" timestamp="2410840" timestamp2="2414239">
+  </DocumentChange>
+  <Command __id="1898" _type="InsertStringCommand" repeat="4" timestamp="2422002" timestamp2="2422369">
+  </Command>
+  <Command __id="1907" _type="InsertStringCommand" timestamp="2424604">
+  </Command>
+  <DocumentChange __id="1908" _type="Insert" docASTNodeCount="208" docActiveCodeLength="2829" docExpressionCount="155" docLength="4029" length="1" offset="2734" timestamp="2424848">
+  </DocumentChange>
+  <DocumentChange __id="1916" _type="Insert" docASTNodeCount="554" docActiveCodeLength="2862" docExpressionCount="351" docLength="4062" length="24" offset="2543" repeat="7" timestamp="2428705" timestamp2="2430263">
+  </DocumentChange>
+  <Command __id="1942" _type="EclipseCommand" commandID="org.eclipse.ui.edit.delete" timestamp="2433544" />
+  <Command __id="1943" _type="EclipseCommand" commandID="org.eclipse.ui.file.save" timestamp="2433728" />
+  <DocumentChange __id="1944" _type="Insert" docASTNodeCount="552" docActiveCodeLength="2861" docExpressionCount="351" docLength="4061" length="5" offset="3928" timestamp="2434825">
+  </DocumentChange>
+  <DocumentChange __id="1945" _type="Delete" docASTNodeCount="552" docActiveCodeLength="2853" docExpressionCount="351" docLength="4053" endLine="112" length="8" offset="3856" startLine="109" timestamp="2434826">
+  </DocumentChange>
+  <DocumentChange __id="1946" _type="Insert" docASTNodeCount="552" docActiveCodeLength="2861" docExpressionCount="351" docLength="4061" length="3" offset="3856" timestamp="2434826">
+  </DocumentChange>
+  <DocumentChange __id="1947" _type="Replace" docASTNodeCount="552" docActiveCodeLength="2851" docExpressionCount="351" docLength="4051" endLine="109" insertionLength="3" int_docASTNodeCount="552" int_docActiveCodeLength="2848" int_docExpressionCount="351" int_docLength="4048" length="8" offset="3844" startLine="107" timestamp="2434828">
+  </DocumentChange>
+  <DocumentChange __id="1953" _type="Replace" docASTNodeCount="552" docActiveCodeLength="2827" docExpressionCount="351" docLength="4027" endLine="104" insertionLength="4" int_docASTNodeCount="552" int_docActiveCodeLength="2823" int_docExpressionCount="351" int_docLength="4023" length="11" offset="3673" startLine="103" timestamp="2434835">
+  </DocumentChange>
+  <DocumentChange __id="1970" _type="Insert" docASTNodeCount="552" docActiveCodeLength="2818" docExpressionCount="351" docLength="4018" length="1" offset="2666" timestamp="2434853">
+  </DocumentChange>
+  <DocumentChange __id="1972" _type="Insert" docASTNodeCount="552" docActiveCodeLength="2821" docExpressionCount="351" docLength="4021" length="1" offset="2654" timestamp="2434855">
+  </DocumentChange>
+  <DocumentChange __id="1974" _type="Insert" docASTNodeCount="552" docActiveCodeLength="2823" docExpressionCount="351" docLength="4023" length="1" offset="2577" timestamp="2434857">
+  </DocumentChange>
+  <DocumentChange __id="1976" _type="Insert" docASTNodeCount="552" docActiveCodeLength="2823" docExpressionCount="351" docLength="4023" length="8" offset="2528" timestamp="2434858">
+  </DocumentChange>
+  <DocumentChange __id="1977" _type="Insert" docASTNodeCount="552" docActiveCodeLength="2817" docExpressionCount="351" docLength="4017" length="1" offset="2438" timestamp="2434859">
+  </DocumentChange>
+  <Command __id="1979" _type="EclipseCommand" commandID="org.eclipse.jdt.ui.edit.text.java.format" timestamp="2434892" />
+  <Command __id="1980" _type="MoveCaretCommand" caretOffset="2761" docOffset="2761" timestamp="2435636" />
+  <Command __id="1981" _type="EclipseCommand" commandID="org.eclipse.ui.file.save" timestamp="2435879" />
+  <Command __id="1982" _type="MoveCaretCommand" caretOffset="2835" docOffset="2835" timestamp="2437564" />
+  <Command __id="1983" _type="MoveCaretCommand" caretOffset="2841" docOffset="2841" timestamp="2437892" />
+  <Command __id="1984" _type="RunCommand" kind="Create" projectName="Assignment3" timestamp="2442185" type="Run" />
+  <Command __id="1985" _type="RunCommand" exitValue="0" kind="Terminate" projectName="Assignment3" timestamp="2446115" type="Run" />
+  <Command __id="1986" _type="EclipseCommand" commandID="org.eclipse.ui.window.preferences" timestamp="2545159" />
+  <Command __id="1987" _type="MoveCaretCommand" caretOffset="2762" docOffset="2762" timestamp="2545360" />
+  <DocumentChange __id="1988" _type="Delete" docASTNodeCount="552" docActiveCodeLength="2813" docExpressionCount="351" docLength="4013" endLine="118" length="5" offset="3885" startLine="117" timestamp="2545657">
+  </DocumentChange>
+  <DocumentChange __id="1989" _type="Delete" docASTNodeCount="552" docActiveCodeLength="2805" docExpressionCount="351" docLength="4005" endLine="111" length="8" offset="3719" startLine="110" timestamp="2545661">
+  </DocumentChange>
+  <DocumentChange __id="1990" _type="Delete" docASTNodeCount="552" docActiveCodeLength="2800" docExpressionCount="351" docLength="4000" endLine="106" length="5" offset="3484" startLine="105" timestamp="2545662">
+  </DocumentChange>
+  <DocumentChange __id="1991" _type="Delete" docASTNodeCount="552" docActiveCodeLength="2792" docExpressionCount="351" docLength="3992" endLine="100" length="8" offset="3323" startLine="99" timestamp="2545663">
+  </DocumentChange>
+  <DocumentChange __id="1992" _type="Replace" docASTNodeCount="552" docActiveCodeLength="2790" docExpressionCount="351" docLength="3990" endLine="94" insertionLength="0" int_docASTNodeCount="552" int_docActiveCodeLength="2790" int_docExpressionCount="351" int_docLength="3990" length="2" offset="3130" startLine="93" timestamp="2545665">
+  </DocumentChange>
+  <DocumentChange __id="1996" _type="Replace" docASTNodeCount="552" docActiveCodeLength="2782" docExpressionCount="351" docLength="3982" endLine="90" insertionLength="0" int_docASTNodeCount="552" int_docActiveCodeLength="2782" int_docExpressionCount="351" int_docLength="3982" length="2" offset="3036" startLine="89" timestamp="2545671">
+  </DocumentChange>
+  <DocumentChange __id="2001" _type="Replace" docASTNodeCount="552" docActiveCodeLength="2769" docExpressionCount="351" docLength="3969" endLine="82" insertionLength="0" int_docASTNodeCount="552" int_docActiveCodeLength="2769" int_docExpressionCount="351" int_docLength="3969" length="2" offset="2846" startLine="81" timestamp="2545679">
+  </DocumentChange>
+  <DocumentChange __id="2005" _type="Replace" docASTNodeCount="552" docActiveCodeLength="2754" docExpressionCount="351" docLength="3954" endLine="77" insertionLength="0" int_docASTNodeCount="552" int_docActiveCodeLength="2754" int_docExpressionCount="351" int_docLength="3954" length="2" offset="2710" startLine="76" timestamp="2545686">
+  </DocumentChange>
+  <DocumentChange __id="2009" _type="Replace" docASTNodeCount="552" docActiveCodeLength="2746" docExpressionCount="351" docLength="3946" endLine="73" insertionLength="0" int_docASTNodeCount="552" int_docActiveCodeLength="2746" int_docExpressionCount="351" int_docLength="3946" length="2" offset="2536" startLine="71" timestamp="2545692">
+  </DocumentChange>
+  <DocumentChange __id="2013" _type="Replace" docASTNodeCount="552" docActiveCodeLength="2738" docExpressionCount="351" docLength="3938" endLine="68" insertionLength="0" int_docASTNodeCount="552" int_docActiveCodeLength="2738" int_docExpressionCount="351" int_docLength="3938" length="2" offset="2369" startLine="67" timestamp="2545699">
+  </DocumentChange>
+  <DocumentChange __id="2017" _type="Replace" docASTNodeCount="552" docActiveCodeLength="2730" docExpressionCount="351" docLength="3930" endLine="63" insertionLength="0" int_docASTNodeCount="552" int_docActiveCodeLength="2730" int_docExpressionCount="351" int_docLength="3930" length="2" offset="2197" startLine="62" timestamp="2545706">
+  </DocumentChange>
+  <Command __id="2205" _type="PasteCommand" timestamp="3174749" />
+  <Command __id="2206" _type="MoveCaretCommand" caretOffset="1538" docOffset="1538" timestamp="3175184" />
+  <Command __id="2207" _type="EclipseCommand" commandID="org.eclipse.ui.file.save" timestamp="3175440" />
+  <Command __id="2208" _type="MoveCaretCommand" caretOffset="1594" docOffset="1594" timestamp="3176178" />
+  <Command __id="2209" _type="MoveCaretCommand" caretOffset="1515" docOffset="1515" timestamp="3176912" />
+  <Command __id="2210" _type="MoveCaretCommand" caretOffset="1436" docOffset="1436" timestamp="3177944" />
+  <Command __id="2211" _type="MoveCaretCommand" caretOffset="1315" docOffset="1315" timestamp="3178416" />
+  <Command __id="2212" _type="MoveCaretCommand" caretOffset="1614" docOffset="1614" timestamp="3178728" />
+  <Command __id="2213" _type="MoveCaretCommand" caretOffset="1598" docOffset="1598" timestamp="3188120" />
+  <Command __id="2214" _type="SelectTextCommand" caretOffset="1605" docEnd="1605" docOffset="1605" docStart="1592" end="1605" start="1592" timestamp="3188304" />
+  <Command __id="2215" _type="SelectTextCommand" caretOffset="1439" docEnd="1439" docOffset="1439" docStart="1436" end="1439" start="1436" timestamp="3190407" />
+  <Command __id="2216" _type="MoveCaretCommand" caretOffset="1600" docOffset="1600" timestamp="3191111" />
+  <Command __id="2217" _type="SelectTextCommand" caretOffset="1605" docEnd="1605" docOffset="1605" docStart="1592" end="1605" start="1592" timestamp="3191288" />
+  <DocumentChange __id="2218" _type="Replace" docASTNodeCount="566" docActiveCodeLength="2811" docExpressionCount="360" docLength="4011" endLine="43" insertionLength="8" int_docASTNodeCount="566" int_docActiveCodeLength="2803" int_docExpressionCount="360" int_docLength="4003" length="13" offset="1592" repeat="8" startLine="43" timestamp="3192731" timestamp2="3193418">
+  </DocumentChange>
+  <Command __id="2387" _type="InsertStringCommand" repeat="4" timestamp="3373067" timestamp2="3373268">
+  </Command>
+  <Command __id="2412" _type="EclipseCommand" commandID="org.eclipse.ui.file.save" timestamp="3375551" />
+  <Command __id="2413" _type="SelectTextCommand" caretOffset="2603" docEnd="2603" docOffset="2603" docStart="2338" end="2603" start="2338" timestamp="3379057" />
+  <DocumentChange __id="2414" _type="Delete" docASTNodeCount="517" docActiveCodeLength="2545" docExpressionCount="327" docLength="3529" endLine="68" length="271" offset="2338" repeat="2" startLine="61" timestamp="3379797" timestamp2="3380411">
+  </DocumentChange>
+  <Command __id="2415" _type="EclipseCommand" commandID="org.eclipse.ui.edit.delete" timestamp="3379811" />
+  <Command __id="2416" _type="EclipseCommand" commandID="eventLogger.styledTextCommand.SELECT_LINE_DOWN" timestamp="3380186" />
+  <Command __id="2418" _type="EclipseCommand" commandID="org.eclipse.ui.edit.delete" timestamp="3380416" />
+  <Command __id="2419" _type="EclipseCommand" commandID="org.eclipse.ui.file.save" timestamp="3380756" />
+  <Command __id="2420" _type="MoveCaretCommand" caretOffset="2301" docOffset="2301" timestamp="3381809" />
+  <Command __id="2421" _type="SelectTextCommand" caretOffset="2304" docEnd="2304" docOffset="2304" docStart="2295" end="2304" start="2295" timestamp="3381960" />
+  <Command __id="2422" _type="CopyCommand" timestamp="3382312" />
+  <Command __id="2423" _type="MoveCaretCommand" caretOffset="2375" docOffset="2375" timestamp="3382713" />
+  <Command __id="2424" _type="SelectTextCommand" caretOffset="2377" docEnd="2377" docOffset="2377" docStart="2373" end="2377" start="2373" timestamp="3382865" />
+  <DocumentChange __id="2425" _type="Replace" docASTNodeCount="517" docActiveCodeLength="2550" docExpressionCount="327" docLength="3534" endLine="61" insertionLength="8" int_docASTNodeCount="517" int_docActiveCodeLength="2542" int_docExpressionCount="327" int_docLength="3526" length="3" offset="2374" startLine="61" timestamp="3383049">
+  </DocumentChange>
+  <Command __id="2512" _type="PasteCommand" timestamp="3442072" />
+  <Command __id="2513" _type="MoveCaretCommand" caretOffset="1926" docOffset="1926" timestamp="3442463" />
+  <Command __id="2514" _type="EclipseCommand" commandID="org.eclipse.ui.file.save" timestamp="3442804" />
+  <Command __id="2515" _type="MoveCaretCommand" caretOffset="1763" docOffset="1763" timestamp="3450470" />
+  <Command __id="2516" _type="MoveCaretCommand" caretOffset="1926" docOffset="1926" timestamp="3456814" />
+  <Command __id="2517" _type="MoveCaretCommand" caretOffset="1804" docOffset="1804" timestamp="3460342" />
+  <DocumentChange __id="2518" _type="Insert" docASTNodeCount="552" docActiveCodeLength="2698" docExpressionCount="345" docLength="3682" length="1" offset="1804" timestamp="3461202">
+  </DocumentChange>
+  <Command __id="2523" _type="AssistCommand" assist_type="CONTENT_ASSIST" auto_activated="false" start_end="END" timestamp="3472545" />
+  <DocumentChange __id="2524" _type="Insert" docASTNodeCount="554" docActiveCodeLength="2700" docExpressionCount="347" docLength="3684" length="7" offset="1807" timestamp="3472547">
+  </DocumentChange>
+  <Command __id="2529" _type="EclipseCommand" commandID="eventLogger.styledTextCommand.DELETE_PREVIOUS" repeat="2" timestamp="3477275" timestamp2="3477682" />
+  <Command __id="2532" _type="EclipseCommand" commandID="org.eclipse.ui.file.save" timestamp="3478026" />
+  <Command __id="2533" _type="MoveCaretCommand" caretOffset="1926" docOffset="1926" timestamp="3478900" />
+  <DocumentChange __id="2534" _type="Insert" docASTNodeCount="566" docActiveCodeLength="2749" docExpressionCount="358" docLength="3733" length="52" offset="1079" timestamp="3491966">
+  </DocumentChange>
+  <Command __id="2535" _type="MoveCaretCommand" caretOffset="2281" docOffset="2281" timestamp="3492933" />
+  <Command __id="2536" _type="MoveCaretCommand" caretOffset="2242" docOffset="2242" timestamp="3494477" />
+  <Command __id="2537" _type="EclipseCommand" commandID="org.eclipse.ui.file.save" timestamp="3494729" />
+  <Command __id="2538" _type="MoveCaretCommand" caretOffset="1981" docOffset="1981" timestamp="3499317" />
+  <Command __id="2539" _type="MoveCaretCommand" caretOffset="1845" docOffset="1845" timestamp="3505772" />
+  <Command __id="2540" _type="SelectTextCommand" caretOffset="1848" docEnd="1848" docOffset="1848" docStart="1834" end="1848" start="1834" timestamp="3505927" />
+  <Command __id="2541" _type="MoveCaretCommand" caretOffset="1888" docOffset="1888" timestamp="3508876" />
+  <Command __id="2542" _type="SelectTextCommand" caretOffset="1892" docEnd="1892" docOffset="1892" docStart="1885" end="1892" start="1885" timestamp="3509060" />
+  <DocumentChange __id="2543" _type="Replace" docASTNodeCount="566" docActiveCodeLength="2748" docExpressionCount="358" docLength="3732" endLine="48" insertionLength="6" int_docASTNodeCount="565" int_docActiveCodeLength="2742" int_docExpressionCount="357" int_docLength="3726" length="7" offset="1885" repeat="6" startLine="48" timestamp="3511312" timestamp2="3511909">
+  </DocumentChange>
+  <Command __id="2597" _type="PasteCommand" timestamp="3584346" />
+  <Command __id="2598" _type="MoveCaretCommand" caretOffset="2421" docOffset="2421" timestamp="3584794" />
+  <Command __id="2599" _type="EclipseCommand" commandID="org.eclipse.ui.file.save" timestamp="3584999" />
+  <Command __id="2600" _type="MoveCaretCommand" caretOffset="2360" docOffset="2360" timestamp="3586015" />
+  <Command __id="2601" _type="EclipseCommand" commandID="eventLogger.styledTextCommand.SELECT_LINE_DOWN" timestamp="3586629" />
+  <DocumentChange __id="2602" _type="Delete" docASTNodeCount="419" docActiveCodeLength="2720" docExpressionCount="277" docLength="3704" endLine="61" length="38" offset="2360" startLine="60" timestamp="3586870">
+  </DocumentChange>
+  <Command __id="2603" _type="EclipseCommand" commandID="org.eclipse.ui.edit.delete" timestamp="3586879" />
+  <Command __id="2604" _type="EclipseCommand" commandID="eventLogger.styledTextCommand.LINE_DOWN" repeat="7" timestamp="3587125" timestamp2="3588005" />
+  <Command __id="2611" _type="EclipseCommand" commandID="eventLogger.styledTextCommand.LINE_UP" timestamp="3588397" />
+  <Command __id="2612" _type="EclipseCommand" commandID="eventLogger.styledTextCommand.SELECT_LINE_DOWN" repeat="2" timestamp="3588621" timestamp2="3588755" />
+  <DocumentChange __id="2614" _type="Delete" docASTNodeCount="549" docActiveCodeLength="2661" docExpressionCount="348" docLength="3645" endLine="68" length="59" offset="2581" startLine="66" timestamp="3589179">
+  </DocumentChange>
+  <Command __id="2615" _type="EclipseCommand" commandID="org.eclipse.ui.edit.delete" timestamp="3589187" />
+  <Command __id="2616" _type="EclipseCommand" commandID="org.eclipse.ui.file.save" timestamp="3589522" />
+  <Command __id="2617" _type="RunCommand" kind="Create" projectName="Assignment3" timestamp="3594133" type="Run" />
+  <Command __id="2618" _type="RunCommand" exitValue="0" kind="Terminate" projectName="Assignment3" timestamp="3598724" type="Run" />
+  <Command __id="2619" _type="MoveCaretCommand" caretOffset="2361" docOffset="2361" timestamp="3605833" />
+  <Command __id="2620" _type="EclipseCommand" commandID="eventLogger.styledTextCommand.SELECT_LINE_DOWN" timestamp="3606427" />
+  <DocumentChange __id="2621" _type="Delete" docASTNodeCount="542" docActiveCodeLength="2633" docExpressionCount="342" docLength="3617" endLine="61" length="28" offset="2361" startLine="60" timestamp="3606604">
+  </DocumentChange>
+  <Command __id="2622" _type="EclipseCommand" commandID="org.eclipse.ui.edit.delete" timestamp="3606617" />
+  <Command __id="2623" _type="EclipseCommand" commandID="org.eclipse.ui.file.save" timestamp="3606830" />
+  <Command __id="2624" _type="MoveCaretCommand" caretOffset="2094" docOffset="2094" timestamp="3608417" />
+  <Command __id="2625" _type="EclipseCommand" commandID="eventLogger.styledTextCommand.SELECT_LINE_DOWN" repeat="5" timestamp="3608892" timestamp2="3609450" />
+  <DocumentChange __id="2630" _type="Delete" docASTNodeCount="542" docActiveCodeLength="2619" docExpressionCount="342" docLength="3419" endLine="58" length="198" offset="2094" startLine="53" timestamp="3609756">
+  </DocumentChange>
+  <Command __id="2631" _type="EclipseCommand" commandID="org.eclipse.ui.edit.delete" timestamp="3609767" />
+  <Command __id="2632" _type="EclipseCommand" commandID="org.eclipse.ui.file.save" timestamp="3610124" />
+  <Command __id="2633" _type="EclipseCommand" commandID="eventLogger.styledTextCommand.SELECT_LINE_DOWN" timestamp="3611068" />
+  <Command __id="2634" _type="EclipseCommand" commandID="eventLogger.styledTextCommand.LINE_UP" timestamp="3611948" />
+  <DocumentChange __id="2635" _type="Delete" docASTNodeCount="542" docActiveCodeLength="2616" docExpressionCount="342" docLength="3416" endLine="53" length="3" offset="2094" repeat="3" startLine="53" timestamp="3612356" timestamp2="3612780">
+  </DocumentChange>
+  <Command __id="2646" _type="EclipseCommand" commandID="org.eclipse.ui.edit.delete" timestamp="3616722" />
+  <Command __id="2647" _type="EclipseCommand" commandID="org.eclipse.ui.file.save" timestamp="3617006" />
+  <Command __id="2648" _type="SelectTextCommand" caretOffset="2558" docEnd="2558" docOffset="2558" docStart="2366" end="2558" start="2366" timestamp="3621573" />
+  <Command __id="2649" _type="MoveCaretCommand" caretOffset="2035" docOffset="2035" timestamp="3630672" />
+  <Command __id="2650" _type="EclipseCommand" commandID="eventLogger.styledTextCommand.COLUMN_PREVIOUS" timestamp="3631393" />
+  <DocumentChange __id="2651" _type="Insert" docASTNodeCount="544" docActiveCodeLength="2618" docExpressionCount="344" docLength="3418" length="3" offset="2034" repeat="3" timestamp="3631716" timestamp2="3633074">
+  </DocumentChange>
+  <Command __id="2659" _type="EclipseCommand" commandID="org.eclipse.ui.file.save" timestamp="3637794" />
+  <Command __id="2660" _type="AssistCommand" assist_type="CONTENT_ASSIST" auto_activated="false" start_end="END" timestamp="3637884" />
+  <Command __id="2661" _type="EclipseCommand" commandID="eventLogger.styledTextCommand.COLUMN_NEXT" repeat="4" timestamp="3638100" timestamp2="3638505" />
+  <DocumentChange __id="2665" _type="Delete" docASTNodeCount="542" docActiveCodeLength="2609" docExpressionCount="342" docLength="3409" endLine="52" length="6" offset="2038" repeat="6" startLine="52" timestamp="3638803" timestamp2="3640211">
+  </DocumentChange>
+  <Command __id="2682" _type="EclipseCommand" commandID="eventLogger.styledTextCommand.DELETE_PREVIOUS" repeat="3" timestamp="3642255" timestamp2="3642508" />
+  <Command __id="2687" _type="EclipseCommand" commandID="org.eclipse.ui.file.save" timestamp="3642755" />
+  <Command __id="2688" _type="MoveCaretCommand" caretOffset="2329" docOffset="2329" timestamp="3643954" />
+  <DocumentChange __id="2689" _type="Delete" docASTNodeCount="539" docActiveCodeLength="2597" docExpressionCount="340" docLength="3397" endLine="58" length="3" offset="2326" repeat="3" startLine="58" timestamp="3644306" timestamp2="3644569">
+  </DocumentChange>
+  <Command __id="2699" _type="EclipseCommand" commandID="eventLogger.styledTextCommand.DELETE_PREVIOUS" repeat="3" timestamp="3646326" timestamp2="3646595" />
+  <Command __id="2704" _type="EclipseCommand" commandID="org.eclipse.ui.file.save" timestamp="3646940" />
+  <Command __id="2705" _type="MoveCaretCommand" caretOffset="2324" docOffset="2324" timestamp="3647767" />
+  <Command __id="2706" _type="MoveCaretCommand" caretOffset="2047" docOffset="2047" timestamp="3650711" />
+  <DocumentChange __id="2707" _type="Delete" docASTNodeCount="537" docActiveCodeLength="2584" docExpressionCount="339" docLength="3384" endLine="52" length="4" offset="2043" repeat="4" startLine="52" timestamp="3651137" timestamp2="3651553">
+  </DocumentChange>
+  <Command __id="2718" _type="EclipseCommand" commandID="eventLogger.styledTextCommand.DELETE_PREVIOUS" timestamp="3655421" />
+  <Command __id="2719" _type="EclipseCommand" commandID="org.eclipse.ui.file.save" timestamp="3655659" />
+  <Command __id="2720" _type="MoveCaretCommand" caretOffset="2316" docOffset="2316" timestamp="3656479" />
+  <DocumentChange __id="2721" _type="Delete" docASTNodeCount="528" docActiveCodeLength="2547" docExpressionCount="336" docLength="3347" endLine="52" length="28" offset="1984" startLine="52" timestamp="3662930">
+  </DocumentChange>
+  <Command __id="2723" _type="MoveCaretCommand" caretOffset="2201" docOffset="2201" timestamp="3663787" />
+  <Command __id="2724" _type="MoveCaretCommand" caretOffset="2310" docOffset="2310" timestamp="3664151" />
+  <Command __id="2725" _type="EclipseCommand" commandID="org.eclipse.ui.file.save" timestamp="3664387" />
+  <Command __id="2726" _type="MoveCaretCommand" caretOffset="2158" docOffset="2158" timestamp="3678446" />
+  <Command __id="2727" _type="MoveCaretCommand" caretOffset="2088" docOffset="2088" timestamp="3817801" />
+  <DocumentChange __id="2728" _type="Delete" docASTNodeCount="533" docActiveCodeLength="2561" docExpressionCount="337" docLength="3361" endLine="54" length="1" offset="2087" startLine="54" timestamp="3818555">
+  </DocumentChange>
+  <Command __id="2734" _type="InsertStringCommand" timestamp="3821546">
+  </Command>
+  <Command __id="2746" _type="EclipseCommand" commandID="org.eclipse.ui.file.save" timestamp="3832621" />
+  <Command __id="2747" _type="MoveCaretCommand" caretOffset="2319" docOffset="2319" timestamp="3833223" />
+  <DocumentChange __id="2748" _type="Delete" docASTNodeCount="532" docActiveCodeLength="2569" docExpressionCount="338" docLength="3369" endLine="55" length="14" offset="2103" startLine="55" timestamp="3838268">
+  </DocumentChange>
+  <Command __id="2750" _type="MoveCaretCommand" caretOffset="2311" docOffset="2311" timestamp="3843072" />
+  <Command __id="2751" _type="SelectTextCommand" caretOffset="2295" docEnd="2295" docOffset="2295" docStart="2277" end="2295" start="2277" timestamp="3850016" />
+  <DocumentChange __id="2752" _type="Delete" docASTNodeCount="528" docActiveCodeLength="2556" docExpressionCount="336" docLength="3356" endLine="59" length="19" offset="2276" repeat="2" startLine="59" timestamp="3850583" timestamp2="3850722">
+  </DocumentChange>
+  <Command __id="2759" _type="EclipseCommand" commandID="eventLogger.styledTextCommand.DELETE_PREVIOUS" timestamp="3852388" />
+  <Command __id="2760" _type="EclipseCommand" commandID="org.eclipse.ui.file.save" timestamp="3852590" />
+  <Command __id="2761" _type="MoveCaretCommand" caretOffset="2291" docOffset="2291" timestamp="3853408" />
+  <Command __id="2762" _type="MoveCaretCommand" caretOffset="2296" docOffset="2296" timestamp="3854039" />
+  <Command __id="2763" _type="SelectTextCommand" caretOffset="2498" docEnd="2498" docOffset="2498" docStart="2306" end="2498" start="2306" timestamp="3855951" />
+  <DocumentChange __id="2764" _type="Delete" docASTNodeCount="484" docActiveCodeLength="2359" docExpressionCount="313" docLength="3159" endLine="71" length="196" offset="2306" repeat="4" startLine="64" timestamp="3856571" timestamp2="3859045">
+  </DocumentChange>
+  <Command __id="2765" _type="EclipseCommand" commandID="org.eclipse.ui.edit.delete" timestamp="3856586" />
+  <Command __id="2766" _type="EclipseCommand" commandID="org.eclipse.ui.file.save" timestamp="3856947" />
+  <Command __id="2767" _type="EclipseCommand" commandID="eventLogger.styledTextCommand.SELECT_LINE_DOWN" repeat="2" timestamp="3857276" timestamp2="3857426" />
+  <Command __id="2770" _type="EclipseCommand" commandID="org.eclipse.ui.edit.delete" timestamp="3857650" />
+  <Command __id="2771" _type="EclipseCommand" commandID="org.eclipse.ui.file.save" timestamp="3857962" />
+  <Command __id="2773" _type="EclipseCommand" commandID="org.eclipse.ui.edit.delete" repeat="2" timestamp="3858699" timestamp2="3859048" />
+  <Command __id="2776" _type="EclipseCommand" commandID="org.eclipse.ui.file.save" timestamp="3859564" />
+  <Command __id="2777" _type="SelectTextCommand" caretOffset="2963" docEnd="2963" docOffset="2963" docStart="2306" end="2963" start="2306" timestamp="3863951" />
+  <DocumentChange __id="2778" _type="Delete" docASTNodeCount="358" docActiveCodeLength="1702" docExpressionCount="249" docLength="2502" endLine="80" length="657" offset="2306" startLine="64" timestamp="3864738">
+  </DocumentChange>
+  <Command __id="2779" _type="EclipseCommand" commandID="org.eclipse.ui.edit.delete" timestamp="3864771" />
+  <Command __id="2780" _type="EclipseCommand" commandID="org.eclipse.ui.file.save" timestamp="3865124" />
+  <Command __id="2781" _type="SelectTextCommand" caretOffset="2025" docEnd="2025" docOffset="2025" docStart="2005" end="2025" start="2005" timestamp="3868990" />
+  <Command __id="2782" _type="CopyCommand" timestamp="3869283" />
+  <Command __id="2783" _type="MoveCaretCommand" caretOffset="2306" docOffset="2306" timestamp="3869669" />
+  <DocumentChange __id="2784" _type="Insert" docASTNodeCount="358" docActiveCodeLength="1702" docExpressionCount="249" docLength="2502" length="20" offset="2306" timestamp="3869939">
+  </DocumentChange>
+  <Command __id="2788" _type="EclipseCommand" commandID="eventLogger.styledTextCommand.DELETE_PREVIOUS" repeat="4" timestamp="3871106" timestamp2="3871491" />
+  <DocumentChange __id="2795" _type="Insert" docASTNodeCount="369" docActiveCodeLength="1743" docExpressionCount="255" docLength="2543" length="25" offset="2322" repeat="25" timestamp="3871988" timestamp2="3876482">
+  </DocumentChange>
+  <DocumentChange __id="2845" _type="Delete" docASTNodeCount="364" docActiveCodeLength="1741" docExpressionCount="256" docLength="2541" endLine="64" length="1" offset="2345" startLine="64" timestamp="3882673">
+  </DocumentChange>
+  <DocumentChange __id="2848" _type="Delete" docASTNodeCount="364" docActiveCodeLength="1741" docExpressionCount="256" docLength="2541" endLine="64" length="2" offset="2345" repeat="2" startLine="64" timestamp="3886040" timestamp2="3886224">
+  </DocumentChange>
+  <Command __id="2852" _type="AssistCommand" assist_type="CONTENT_ASSIST" auto_activated="false" start_end="END" timestamp="3896514" />
+  <DocumentChange __id="2853" _type="Insert" docASTNodeCount="371" docActiveCodeLength="1753" docExpressionCount="257" docLength="2553" length="10" offset="2347" repeat="4" timestamp="3896516" timestamp2="3898178">
+  </DocumentChange>
+  <Command __id="2862" _type="EclipseCommand" commandID="eventLogger.styledTextCommand.DELETE_PREVIOUS" repeat="3" timestamp="3898911" timestamp2="3899369" />
+  <Command __id="2867" _type="EclipseCommand" commandID="org.eclipse.ui.file.save" timestamp="3899635" />
+  <DocumentChange __id="2868" _type="Insert" docASTNodeCount="371" docActiveCodeLength="1753" docExpressionCount="257" docLength="2553" length="3" offset="2354" timestamp="3914048">
+  </DocumentChange>
+  <DocumentChange __id="2872" _type="Replace" docASTNodeCount="369" docActiveCodeLength="1743" docExpressionCount="255" docLength="2543" endLine="64" insertionLength="0" int_docASTNodeCount="369" int_docActiveCodeLength="1743" int_docExpressionCount="255" int_docLength="2543" length="7" offset="2347" startLine="64" timestamp="3914705">
+  </DocumentChange>
+  <DocumentChange __id="2896" _type="Insert" docASTNodeCount="528" docActiveCodeLength="2556" docExpressionCount="336" docLength="3356" length="1" offset="2285" timestamp="3917211">
+  </DocumentChange>
+  <Command __id="2899" _type="RedoCommand" repeat="4" timestamp="3928428" timestamp2="3929163" />
+  <DocumentChange __id="2900" _type="Delete" docASTNodeCount="484" docActiveCodeLength="2359" docExpressionCount="313" docLength="3159" endLine="71" length="196" offset="2306" repeat="3" startLine="64" timestamp="3928582" timestamp2="3929159">
+  </DocumentChange>
+  <DocumentChange __id="2906" _type="Insert" docASTNodeCount="484" docActiveCodeLength="2361" docExpressionCount="313" docLength="3161" length="2" offset="2306" timestamp="3932808">
+  </DocumentChange>
+  <DocumentChange __id="2910" _type="Insert" docASTNodeCount="528" docActiveCodeLength="2555" docExpressionCount="336" docLength="3355" length="192" offset="2306" timestamp="3933410">
+  </DocumentChange>
+  <DocumentChange __id="2912" _type="Insert" docASTNodeCount="528" docActiveCodeLength="2556" docExpressionCount="336" docLength="3356" length="1" offset="2285" timestamp="3933500">
+  </DocumentChange>
+  <DocumentChange __id="2918" _type="Delete" docASTNodeCount="532" docActiveCodeLength="2569" docExpressionCount="338" docLength="3369" endLine="55" length="6" offset="2103" startLine="55" timestamp="3934611">
+  </DocumentChange>
+  <DocumentChange __id="2921" _type="Delete" docASTNodeCount="537" docActiveCodeLength="2582" docExpressionCount="340" docLength="3382" endLine="59" length="1" offset="2293" startLine="59" timestamp="3934715">
+  </DocumentChange>
+  <DocumentChange __id="2925" _type="Delete" docASTNodeCount="533" docActiveCodeLength="2562" docExpressionCount="337" docLength="3362" endLine="20" length="21" offset="824" startLine="19" timestamp="3934880">
+  </DocumentChange>
+  <DocumentChange __id="2927" _type="Delete" docASTNodeCount="533" docActiveCodeLength="2561" docExpressionCount="337" docLength="3361" endLine="54" length="1" offset="2087" startLine="54" timestamp="3935021">
+  </DocumentChange>
+  <DocumentChange __id="2931" _type="Delete" docASTNodeCount="528" docActiveCodeLength="2547" docExpressionCount="336" docLength="3347" endLine="52" length="15" offset="1984" startLine="52" timestamp="3936928">
+  </DocumentChange>
+  <DocumentChange __id="2934" _type="Insert" docASTNodeCount="537" docActiveCodeLength="2584" docExpressionCount="339" docLength="3384" length="9" offset="2108" timestamp="3937105">
+  </DocumentChange>
+  <DocumentChange __id="2938" _type="Insert" docASTNodeCount="539" docActiveCodeLength="2597" docExpressionCount="340" docLength="3397" length="9" offset="2306" repeat="2" timestamp="3937998" timestamp2="3938773">
+  </DocumentChange>
+  <Command __id="2943" _type="UndoCommand" repeat="3" timestamp="3942829" timestamp2="3944194" />
+  <DocumentChange __id="2944" _type="Insert" docASTNodeCount="542" docActiveCodeLength="2609" docExpressionCount="342" docLength="3409" length="9" offset="2070" repeat="2" timestamp="3943463" timestamp2="3944190">
+  </DocumentChange>
+  <Command __id="2949" _type="UndoCommand" timestamp="3946646" />
+  <Command __id="2950" _type="EclipseCommand" commandID="org.eclipse.ui.file.save" timestamp="3947672" />
+  <Command __id="2951" _type="MoveCaretCommand" caretOffset="2547" docOffset="2547" timestamp="3949916" />
+  <Command __id="2952" _type="MoveCaretCommand" caretOffset="2552" docOffset="2552" timestamp="3951332" />
+  <Command __id="2953" _type="MoveCaretCommand" caretOffset="2408" docOffset="2408" timestamp="3954332" />
+  <DocumentChange __id="2954" _type="Insert" docASTNodeCount="544" docActiveCodeLength="2618" docExpressionCount="344" docLength="3418" length="3" offset="2408" repeat="3" timestamp="3955167" timestamp2="3956412">
+  </DocumentChange>
+  <Command __id="2962" _type="EclipseCommand" commandID="org.eclipse.ui.file.save" timestamp="3959690" />
+  <Command __id="2963" _type="AssistCommand" assist_type="CONTENT_ASSIST" auto_activated="false" start_end="END" timestamp="3959802" />
+  <Command __id="2964" _type="MoveCaretCommand" caretOffset="2558" docOffset="2558" timestamp="3961051" />
+  <Command __id="2965" _type="MoveCaretCommand" caretOffset="2559" docOffset="2559" timestamp="3961567" />
+  <Command __id="2966" _type="SelectTextCommand" caretOffset="2836" docEnd="2836" docOffset="2836" docStart="2562" end="2836" start="2562" timestamp="3964939" />
+  <DocumentChange __id="2967" _type="Delete" docASTNodeCount="486" docActiveCodeLength="2341" docExpressionCount="314" docLength="3141" endLine="77" length="274" offset="2562" startLine="70" timestamp="3966511">
+  </DocumentChange>
+  <Command __id="2968" _type="EclipseCommand" commandID="org.eclipse.ui.edit.delete" timestamp="3966527" />
+  <Command __id="2969" _type="EclipseCommand" commandID="org.eclipse.ui.file.save" timestamp="3967085" />
+  <Command __id="2970" _type="MoveCaretCommand" caretOffset="2399" docOffset="2399" timestamp="3968030" />
+  <Command __id="2971" _type="SelectTextCommand" caretOffset="2401" docEnd="2401" docOffset="2401" docStart="2395" end="2401" start="2395" timestamp="3968180" />
+  <Command __id="2972" _type="CopyCommand" timestamp="3968511" />
+  <Command __id="2973" _type="MoveCaretCommand" caretOffset="2619" docOffset="2619" timestamp="3969323" />
+  <Command __id="2974" _type="SelectTextCommand" caretOffset="2625" docEnd="2625" docOffset="2625" docStart="2614" end="2625" start="2614" timestamp="3969499" />
+  <DocumentChange __id="2975" _type="Replace" docASTNodeCount="486" docActiveCodeLength="2336" docExpressionCount="314" docLength="3136" endLine="71" insertionLength="6" int_docASTNodeCount="485" int_docActiveCodeLength="2330" int_docExpressionCount="313" int_docLength="3130" length="11" offset="2614" startLine="71" timestamp="3969807">
+  </DocumentChange>
+  <Command __id="3052" _type="PasteCommand" timestamp="4107456" />
+  <Command __id="3053" _type="MoveCaretCommand" caretOffset="1999" docOffset="1999" timestamp="4107902" />
+  <Command __id="3054" _type="SelectTextCommand" caretOffset="2002" docEnd="2002" docOffset="2002" docStart="1996" end="2002" start="1996" timestamp="4108038" />
+  <DocumentChange __id="3055" _type="Replace" docASTNodeCount="430" docActiveCodeLength="2031" docExpressionCount="286" docLength="2831" endLine="52" insertionLength="7" int_docASTNodeCount="428" int_docActiveCodeLength="2024" int_docExpressionCount="285" int_docLength="2824" length="6" offset="1996" startLine="52" timestamp="4108262">
+  </DocumentChange>
+  <Command __id="3115" _type="PasteCommand" timestamp="4136694" />
+  <Command __id="3116" _type="MoveCaretCommand" caretOffset="2683" docOffset="2683" timestamp="4137245" />
+  <Command __id="3117" _type="SelectTextCommand" caretOffset="2686" docEnd="2686" docOffset="2686" docStart="2680" end="2686" start="2680" timestamp="4137420" />
+  <DocumentChange __id="3118" _type="Replace" docASTNodeCount="433" docActiveCodeLength="2053" docExpressionCount="289" docLength="2853" endLine="73" insertionLength="7" int_docASTNodeCount="431" int_docActiveCodeLength="2046" int_docExpressionCount="288" int_docLength="2846" length="6" offset="2680" startLine="73" timestamp="4137721">
+  </DocumentChange>
+  <Command __id="3279" _type="PasteCommand" timestamp="4235076" />
+  <Command __id="3281" _type="InsertStringCommand" timestamp="4235888">
+  </Command>
+  <Command __id="3288" _type="EclipseCommand" commandID="org.eclipse.ui.file.save" timestamp="4237230" />
+  <Command __id="3289" _type="MoveCaretCommand" caretOffset="2917" docOffset="2917" timestamp="4238215" />
+  <Command __id="3290" _type="MoveCaretCommand" caretOffset="2921" docOffset="2921" timestamp="4238818" />
+  <Command __id="3291" _type="MoveCaretCommand" caretOffset="2767" docOffset="2767" timestamp="4241241" />
+  <Command __id="3292" _type="SelectTextCommand" caretOffset="2771" docEnd="2771" docOffset="2771" docStart="2762" end="2771" start="2762" timestamp="4241401" />
+  <Command __id="3293" _type="MoveCaretCommand" caretOffset="2746" docOffset="2746" timestamp="4241857" />
+  <Command __id="3294" _type="SelectTextCommand" caretOffset="2750" docEnd="2750" docOffset="2750" docStart="2742" end="2750" start="2742" timestamp="4241993" />
+  <Command __id="3295" _type="CopyCommand" timestamp="4242275" />
+  <Command __id="3296" _type="MoveCaretCommand" caretOffset="2862" docOffset="2862" timestamp="4242721" />
+  <DocumentChange __id="3297" _type="Insert" docASTNodeCount="456" docActiveCodeLength="2152" docExpressionCount="306" docLength="2952" length="11" offset="2862" repeat="4" timestamp="4242940" timestamp2="4243763">
+  </DocumentChange>
+  <Command __id="3310" _type="PasteCommand" timestamp="4246802" />
+  <Command __id="3312" _type="InsertStringCommand" repeat="6" timestamp="4247505" timestamp2="4248488">
+  </Command>
+  <Command __id="3331" _type="InsertStringCommand" timestamp="4250740">
+  </Command>
+  <Command __id="3334" _type="EclipseCommand" commandID="org.eclipse.ui.file.save" timestamp="4251134" />
+  <Command __id="3335" _type="MoveCaretCommand" caretOffset="2862" docOffset="2862" timestamp="4254249" />
+  <Command __id="3336" _type="MoveCaretCommand" caretOffset="2900" docOffset="2900" timestamp="4257009" />
+  <Command __id="3337" _type="MoveCaretCommand" caretOffset="2932" docOffset="2932" timestamp="4257361" />
+  <Command __id="3338" _type="MoveCaretCommand" caretOffset="2959" docOffset="2959" timestamp="4260726" />
+  <Command __id="3339" _type="MoveCaretCommand" caretOffset="2891" docOffset="2891" timestamp="4262241" />
+  <Command __id="3340" _type="SelectTextCommand" caretOffset="2895" docEnd="2895" docOffset="2895" docStart="2886" end="2895" start="2886" timestamp="4262400" />
+  <Command __id="3341" _type="CopyCommand" timestamp="4262836" />
+  <Command __id="3342" _type="MoveCaretCommand" caretOffset="2900" docOffset="2900" timestamp="4263184" />
+  <DocumentChange __id="3343" _type="Insert" docASTNodeCount="464" docActiveCodeLength="2191" docExpressionCount="313" docLength="2991" length="12" offset="2900" repeat="4" timestamp="4263421" timestamp2="4264339">
+  </DocumentChange>
+  <Command __id="3355" _type="PasteCommand" timestamp="4267504" />
+  <Command __id="3357" _type="InsertStringCommand" timestamp="4268186">
+  </Command>
+  <Command __id="4292" _type="EclipseCommand" commandID="org.eclipse.ui.file.save" timestamp="9562410" />
+  <Command __id="4293" _type="AssistCommand" assist_type="CONTENT_ASSIST" auto_activated="false" start_end="END" timestamp="9562520" />
+  <Command __id="4294" _type="EclipseCommand" commandID="eventLogger.styledTextCommand.COLUMN_NEXT" timestamp="9562821" />
+  <Command __id="4295" _type="EclipseCommand" commandID="org.eclipse.ui.edit.text.select.lineEnd" timestamp="9563469" />
+  <Command __id="4296" _type="EclipseCommand" commandID="eventLogger.styledTextCommand.SELECT_COLUMN_PREVIOUS" timestamp="9563813" />
+  <DocumentChange __id="4297" _type="Delete" docASTNodeCount="422" docActiveCodeLength="1936" docExpressionCount="284" docLength="2736" endLine="71" length="10" offset="2618" startLine="71" timestamp="9564335">
+  </DocumentChange>
+  <Command __id="4301" _type="InsertStringCommand" timestamp="9566335">
+  </Command>
+  <Command __id="4310" _type="EclipseCommand" commandID="org.eclipse.ui.file.save" timestamp="9568991" />
+  <Command __id="4311" _type="MoveCaretCommand" caretOffset="2722" docOffset="2722" timestamp="9569987" />
+  <DocumentChange __id="4312" _type="Delete" docASTNodeCount="414" docActiveCodeLength="1917" docExpressionCount="283" docLength="2717" endLine="71" length="29" offset="2559" startLine="71" timestamp="9574420">
+  </DocumentChange>
+  <Command __id="4314" _type="MoveCaretCommand" caretOffset="2727" docOffset="2727" timestamp="9575042" />
+  <Command __id="4315" _type="EclipseCommand" commandID="org.eclipse.ui.file.save" timestamp="9575270" />
+  <Command __id="4316" _type="MoveCaretCommand" caretOffset="2741" docOffset="2741" timestamp="9575693" />
+  <Command __id="4317" _type="RunCommand" kind="Create" projectName="Assignment3" timestamp="9578981" type="Run" />
+  <Command __id="4318" _type="ShellBoundsCommand" bounds="[173, 23, 1932, 1336]" timestamp="9579607" />
+  <Command __id="4319" _type="RunCommand" exitValue="0" kind="Terminate" projectName="Assignment3" timestamp="9583710" type="Run" />
+  <Command __id="4320" _type="MoveCaretCommand" caretOffset="2542" docOffset="2542" timestamp="9593266" />
+  <Command __id="4321" _type="MoveCaretCommand" caretOffset="2410" docOffset="2410" timestamp="9600938" />
+  <Command __id="4322" _type="SelectTextCommand" caretOffset="2415" docEnd="2415" docOffset="2415" docStart="2404" end="2415" start="2404" timestamp="9601122" />
+  <Command __id="4323" _type="MoveCaretCommand" caretOffset="2392" docOffset="2392" timestamp="9601981" />
+  <Command __id="4324" _type="SelectTextCommand" caretOffset="2396" docEnd="2396" docOffset="2396" docStart="2390" end="2396" start="2390" timestamp="9602130" />
+  <Command __id="4325" _type="CopyCommand" timestamp="9602590" />
+  <Command __id="4326" _type="MoveCaretCommand" caretOffset="2601" docOffset="2601" timestamp="9603530" />
+  <Command __id="4327" _type="SelectTextCommand" caretOffset="2603" docEnd="2603" docOffset="2603" docStart="2599" end="2603" start="2599" timestamp="9603690" />
+  <DocumentChange __id="4328" _type="Replace" docASTNodeCount="424" docActiveCodeLength="1949" docExpressionCount="286" docLength="2749" endLine="71" insertionLength="6" int_docASTNodeCount="423" int_docActiveCodeLength="1943" int_docExpressionCount="285" int_docLength="2743" length="4" offset="2599" startLine="71" timestamp="9603919">
